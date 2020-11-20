@@ -23,8 +23,9 @@ This is my first Repo. I am trying to learn how to do this github thing. You wil
 
 </div>
 <p><font size="3">
-I run my system on a Dell Optiplex 790 that is used from a doctor's office. I wiped it and put Promox on it as its operating system. Followed this repro and it took me twenty minutes to get it up and running: https://github.com/whiskerz007/proxmox_hassos_install. Here's the main components of my system:
-Things in use:
+I run my system on a Dell Optiplex 790 that is used from a doctor's office. I wiped it and put Promox on it as its operating system. Followed this repro and it took me twenty minutes to get it up and running: https://github.com/whiskerz007/proxmox_hassos_install. 
+
+Here's the main components of my system:
 | Amount | Item | Description |
 |---|---|---|
 |10 | Amazon Echo devices | How we talk to the house and notifications |
