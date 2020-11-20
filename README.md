@@ -18,7 +18,7 @@
 
 </div>
 <p><font size="3">
-This is the main directory of the Repo.  You will find more links to code and things for Home Assitant contained in them.  I am constantly messing with my Home Assistant each day I will try to keep this updated as much as possible.  I use a configuration type called split configuration.  So my main configuration.yaml file is broken out into many different files located in the directories.  Be sure to visit the package directory where practically self contained YAML files exist that you can easily drop into your configurations to be up and running fast with various automations and components. </p>
+This is my first Repo. I am trying to learn how to do this github thing. You will find more links to code and things for Home Assitant contained in them.  I am constantly messing with my Home Assistant each day I will try to keep this updated as much as possible.  I use a configuration type called split configuration.  So my main configuration.yaml file is broken out into many different files located in the directories.  Once I load my config be sure to visit the package directory where practically self contained YAML files exist.  </p>
 <div align="center"><a name="menu"></a>
 
 
