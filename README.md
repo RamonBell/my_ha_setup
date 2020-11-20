@@ -23,7 +23,14 @@ This is my first Repo. I am trying to learn how to do this github thing. You wil
 
 </div>
 <p><font size="3">
-I run my system on a Dell Optiplex 790 that is used from a doctor's office. I wiped it and put Promox on it as its operating system. Followed this repro and it took me twenty minutes to get it up and running: https://github.com/whiskerz007/proxmox_hassos_install. 
+I run my system on a Dell Optiplex 790 that is used from a doctor's office. I wiped it and put Promox on it as its operating system. Followed this repro and it took me twenty minutes to get it up and running: https://github.com/whiskerz007/proxmox_hassos_install. Here's the main components of my system:
+Things in use:
+| Amount | Item | Description |
+|---|---|---|
+|10 | Amazon Echo devices | How we talk to the house and notifications |
+| 1 | Dell Optiplex | Runs Proxmox and Home Assistant |
+| 1 | Sonoff Zigbee CC2531 USB Dongle|Zigbee Cordinator|
+| 1 | Sonoff RF bridge | RF reciever (Tasmota Flashed) |
 
 </div>
 <p><font size="3">
@@ -36,11 +43,5 @@ Presence Detection:
 | MOBILE APP | https://www.home-assistant.io/integrations/mobile_app|
 | MOTION DETECTORS | mix of RF and Zigbee 
  
-Things in use
-| Amount | Item | Description |
-|---|---|---|
-|10 | Amazon Echo devices | How we talk to the house and notifications |
-| 1 | Dell Optiplex | Runs Proxmox and Home Assistant |
-| 1 | Sonoff Zigbee CC2531 USB Dongle|Zigbee Cordinator|
-| 1 | Sonoff RF bridge | RF reciever (Tasmota Flashed) |
+
 
