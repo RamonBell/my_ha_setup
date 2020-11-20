@@ -29,14 +29,14 @@ I run my system on a Dell Optiplex 790 that is used from a doctor's office. I wi
 <p><font size="3">
 Mobile devices are the main way that we access our automation sysem.  They establish presence in the house and are the basis for many automations.  Are we home? Turn on Automations that do various things: lights, thermostat, alarm system.  Leave? Well do the oposite of being home. We use multiprong way of doing presense detection:
  
- ##Presence Detection:
+Presence Detection:
 | Type | Links/Descritption | 
 |---|---|
 | NMAP | https://www.home-assistant.io/integrations/nmap_tracker| 
 | MOBILE APP | https://www.home-assistant.io/integrations/mobile_app|
 | MOTION DETECTORS | mix of RF and Zigbee 
  
- ##Things in use
+Things in use
 | Amount | Item | Description |
 |---|---|---|
 |10 | Amazon Echo devices | How we talk to the house and notifications |
