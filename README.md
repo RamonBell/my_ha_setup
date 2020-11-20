@@ -1,3 +1,5 @@
+![logo1](https://user-images.githubusercontent.com/50278221/99838601-a2804900-2b26-11eb-8e4b-d2cb986ca9b1.png)
+
 <h1 align="center">
  My smart home documentation
 </h1>
