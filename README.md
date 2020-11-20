@@ -24,3 +24,5 @@ This is my first Repo. I am trying to learn how to do this github thing. You wil
 </div>
 <p><font size="3">
  I run my system on a Dell Optiplex 790 that is used from a doctor's office. I wiped it and put Promox on it as its operating system.
+ 
+Mobile devices are a critical part of my Home Automation.  They establish presence in the house and are the basis for many automations.  Are we home? Turn on Automations that do various things: lights, thermostat, alarm system.  Leave? Well do the oposite of being home. We use multiprong way of doing presense detection: [NMAP]https://www.home-assistant.io/integrations/nmap_tracker. [MOBILE APP]https://www.home-assistant.io/integrations/mobile_app/
