@@ -1,7 +1,5 @@
- ![logo1](https://user-images.githubusercontent.com/50278221/99838601-a2804900-2b26-11eb-8e4b-d2cb986ca9b1.png)
+# This is my Home Assistant Configuration <img src="https://user-images.githubusercontent.com/50278221/99838601-a2804900-2b26-11eb-8e4b-d2cb986ca9b1.png" width="100" height="100" align="right">
 
-<h1 align="center">
- My smart home setup
 </h1>
 <h4 align="center">Be sure to :star: this so you can get updates when I update my repo!</h4>
 <div align="center">
