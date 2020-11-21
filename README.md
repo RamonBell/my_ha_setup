@@ -1,7 +1,7 @@
 ![logo1](https://user-images.githubusercontent.com/50278221/99838601-a2804900-2b26-11eb-8e4b-d2cb986ca9b1.png)
 
 <h1 align="center">
- My smart home documentation
+ My smart home setup
 </h1>
 <h4 align="center">Be sure to :star: this so you can get updates when I update my repo!</h4>
 <div align="center">
@@ -25,7 +25,7 @@ This is my first Repo. I am trying to learn how to do this github thing. You wil
 
 </div>
 <p><font size="3">
-I run my system on a Dell Optiplex 790 that is used from a doctor's office. I wiped it and put Promox on it as its operating system. Followed this repro and it took me twenty minutes to get it up and running: https://github.com/whiskerz007/proxmox_hassos_install. 
+I run my system on a Dell Optiplex 790 that is used from a doctor's office. I wiped it and put Promox on it as its operating system. Followed this repo and it took me twenty minutes to get it up and running: https://github.com/whiskerz007/proxmox_hassos_install. I moved away from cloud based devices and all my smart home deivces are run locally via MQTT.
 
 Here's the main components of my system:
 | Amount | Item | Description |
@@ -34,6 +34,21 @@ Here's the main components of my system:
 | 1 | Dell Optiplex | Runs Proxmox and Home Assistant |
 | 1 | Sonoff Zigbee CC2531 USB Dongle|Zigbee Cordinator|
 | 1 | Sonoff RF bridge | RF reciever (Tasmota Flashed) |
+
+Here are the majority of the devices that I use:
+  Switches:
+    I use mostly physical switches in my house. I use a combination of Ayococr and Gosund switches flashed with Tasmota via Tuya Covert.
+  Temperature and Humidity:
+    I use Aquara Smart Home Temperature & Humidity Sesnors via Zigbee
+  Motion Sensors:
+    I use a combination of Aquara Zigbee, Sonoff RF and Kerui 433 Mhz RF motion detectors.
+  Relays/switches
+    I use Sonoff Basics flashed with Tasmota for lamps and other things that I wanted to make smart but not use a plug for.
+  Plugs
+    The plugs I use are a comibnation of Sonoff S26 and Sonoff S31 power monitoring plugs.
+ 
+    
+
 
 </div>
 <p><font size="3">
