@@ -58,9 +58,17 @@ Here's a run down of the devices that are used in my house.
 * RF Devices
   I used alot of RF devices throughout my house. The are very low power and battery operated.
  
- # AUTOMATIONS
- The majority of my automations, in one way or another, have to due with mine and my wife's unique work schedule and how things are turned on and off based on if we are home or  not or if we have a guest, or if we are on vacation. Since my wife works nights and sleeps during the day, and I work four days a week very earily in the am, I use input booleans, location tracking and other methods to determine things that happen in the house.
+ # Automations
+ The majority of my automations, in one way or another, have to due with mine and my wife's unique work schedule and how things are turned on and off based on if we are home or  not or if we have a guest, or if we are on vacation, or if we are at work. Since my wife works nights and sleeps during the day, and I work four days a week very earily in the am, I use input booleans, location tracking and other methods to determine things that happen in the house. 
+## Security Automations
+## Location Automations
+## Football Automations
+## System Automations
+## Climate Automations
+## Flood and Fire Automations
 
+# Alexa text to Speech https://www.home-assistant.io/integrations/tts/
+I use the many Alexas around the house for announcements and alerts. The majority of my automations have, in one way or another have some Alexa speech component embeded in them. If that ever went away I would be screwed
 
 </div>
 <p><font size="3">
