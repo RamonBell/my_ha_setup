@@ -67,7 +67,8 @@ Here's a run down of the devices that are used in my house.
 ## Climate Automations
 ## Flood and Fire Automations
 
-# Alexa text to Speech https://www.home-assistant.io/integrations/tts/
+# Alexa text to Speech 
+https://github.com/custom-components/alexa_media_player/wiki/Configuration%3A-Notification-Component
 I use the many Alexas around the house for announcements and alerts. The majority of my automations have, in one way or another have some Alexa speech component embeded in them. If that ever went away I would be screwed
 
 </div>
