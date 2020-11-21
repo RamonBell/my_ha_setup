@@ -39,23 +39,23 @@ Here's the main components of my system:
 | 1 | Raspberry Pi4 | Use for Tuya convert, was my old HA operator |
 
 # Devices I use
-
-Switches:
+Here's a run down of the devices that are used in my house.
+* Switches:
   I use mostly physical switches in my house. I use a combination of Ayococr and Gosund switches flashed with Tasmota via Tuya Covert.
   
-Temperature and Humidity:
+* Temperature and Humidity:
   I use Aquara Smart Home Temperature & Humidity Sesnors via Zigbee
   
-Motion Sensors:
+* Motion Sensors:
   I use a combination of Aquara Zigbee, Sonoff RF and Kerui 433 Mhz RF motion detectors.
   
-Relays/switches
+* Relays/switches
   I use Sonoff Basics flashed with Tasmota for lamps and other things that I wanted to make smart but not use a plug for.
   
-Plugs
+* Plugs
   The plugs I use are a comibnation of Sonoff S26 and Sonoff S31 power monitoring plugs.
   
-RF Devices
+* RF Devices
   I used alot of RF devices throughout my house. The are very low power and battery operated.
  
     
