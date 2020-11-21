@@ -58,12 +58,13 @@ Here's a run down of the devices that are used in my house.
 * RF Devices
   I used alot of RF devices throughout my house. The are very low power and battery operated.
  
-    
+ # AUTOMATIONS
+ The majority of my automations, in one way or another, have to due with mine and my wife's unique work schedule and how things are turned on and off based on if we are home or  not or if we have a guest, or if we are on vacation. Since my wife works nights and sleeps during the day, and I work four days a week very earily in the am, I use input booleans, location tracking and other methods to determine things that happen in the house.
 
 
 </div>
 <p><font size="3">
-Mobile devices are the main way that we access our automation sysem.  They establish presence in the house and are the basis for many automations.  Are we home? Turn on Automations that do various things: lights, thermostat, alarm system.  Leave? Well do the oposite of being home. We use multiprong way of doing presense detection:
+Mobile devices are the main way that we access our automation sysem.  They establish presence in the house and are the basis for many automations.  Are we home? Turn on Automations that do various things: lights, thermostat, alarm system.  Leave? Well do the oposite of being home. Everyone has the mobile app on their phone and I have built specific Lovelace dashboards for our phone. We use multiprong way of doing presense detection:
  
 Presence Detection:
 | Type | Links/Descritption | 
