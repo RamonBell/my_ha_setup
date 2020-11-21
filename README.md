@@ -38,18 +38,22 @@ Here's the main components of my system:
 | 1 | Dell Optiplex | Runs Proxmox and Home Assistant |
 | 1 | Sonoff Zigbee CC2531 USB Dongle|Zigbee Cordinator|
 | 1 | Sonoff RF bridge | RF reciever (Tasmota Flashed) |
+| 1 | Raspberry Pi4 | Use for Tuya convert, was my old HA operator |
 
-Here are the majority of the devices that I use:
-  Switches:
-    I use mostly physical switches in my house. I use a combination of Ayococr and Gosund switches flashed with Tasmota via Tuya Covert.
-  Temperature and Humidity:
-    I use Aquara Smart Home Temperature & Humidity Sesnors via Zigbee
-  Motion Sensors:
-    I use a combination of Aquara Zigbee, Sonoff RF and Kerui 433 Mhz RF motion detectors.
-  Relays/switches
-    I use Sonoff Basics flashed with Tasmota for lamps and other things that I wanted to make smart but not use a plug for.
-  Plugs
-    The plugs I use are a comibnation of Sonoff S26 and Sonoff S31 power monitoring plugs.
+Switches:
+  I use mostly physical switches in my house. I use a combination of Ayococr and Gosund switches flashed with Tasmota via Tuya Covert.
+  
+Temperature and Humidity:
+  I use Aquara Smart Home Temperature & Humidity Sesnors via Zigbee
+  
+Motion Sensors:
+  I use a combination of Aquara Zigbee, Sonoff RF and Kerui 433 Mhz RF motion detectors.
+  
+Relays/switches
+  I use Sonoff Basics flashed with Tasmota for lamps and other things that I wanted to make smart but not use a plug for.
+  
+Plugs
+  The plugs I use are a comibnation of Sonoff S26 and Sonoff S31 power monitoring plugs.
  
     
 
