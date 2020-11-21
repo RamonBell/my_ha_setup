@@ -54,6 +54,9 @@ Relays/switches
   
 Plugs
   The plugs I use are a comibnation of Sonoff S26 and Sonoff S31 power monitoring plugs.
+  
+RF Devices
+  I used alot of RF devices throughout my house. The are very low power and battery operated.
  
     
 
