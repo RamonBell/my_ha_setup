@@ -61,6 +61,7 @@ Here's a run down of the devices that are used in my house.
  # Automations
  The majority of my automations, in one way or another, have to due with mine and my wife's unique work schedule and how things are turned on and off based on if we are home or  not or if we have a guest, or if we are on vacation, or if we are at work. Since my wife works nights and sleeps during the day, and I work four days a week very earily in the am, I use input booleans, location tracking and other methods to determine things that happen in the house. 
 ## Security Automations
+   COMING SOON
 ## Location Automations
 ## Football Automations
 ## System Automations
