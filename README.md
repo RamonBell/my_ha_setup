@@ -1,4 +1,4 @@
-![logo1](https://user-images.githubusercontent.com/50278221/99838601-a2804900-2b26-11eb-8e4b-d2cb986ca9b1.png)
+ ![logo1](https://user-images.githubusercontent.com/50278221/99838601-a2804900-2b26-11eb-8e4b-d2cb986ca9b1.png)
 
 <h1 align="center">
  My smart home setup
@@ -24,12 +24,12 @@
 
 </div>
 <p><font size="3">
-This is my first Repo. I am trying to learn how to do this github thing. You will find more links to code and things for Home Assitant contained in them.  I am constantly messing with my Home Assistant each day I will try to keep this updated as much as possible.  I use a configuration type called split configuration.  So my main configuration.yaml file is broken out into many different files located in the directories.  Once I load my config be sure to visit the package directory where all the YAML files exist.  </p>
+This is my first Repo. I am trying to learn how to do this github thing. You will find more links to code and things for Home Assitant contained here.  I am constantly messing with my Home Assistant each day I will try to keep this updated as much as possible.  I use a configuration type called split configuration.  So my main configuration.yaml file is broken out into many different files located in the directories.  Once I load my config be sure to visit the package directory where all the YAML files exist.  </p>
 <div align="center"><a name="menu"></a>
 
 </div>
 <p><font size="3">
-I run my system on a Dell Optiplex 790 that is used from a doctor's office. I wiped it and put Promox on it as its operating system. Followed this repo and it took me twenty minutes to get it up and running: https://github.com/whiskerz007/proxmox_hassos_install. I moved away from cloud based devices and all my smart home deivces are run locally via MQTT.
+I run my system on a Dell Optiplex 790 that is used from a doctor's office. I wiped it and put Promox on it as its operating system. I followed this repo and it took me twenty minutes to get it up and running: https://github.com/whiskerz007/proxmox_hassos_install. I moved away from cloud based devices and all my smart home deivces are run locally via MQTT.
 
 Here's the main components of my system:
 | Amount | Item | Description |
