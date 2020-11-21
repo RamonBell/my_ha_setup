@@ -14,6 +14,10 @@
     My Twitter
   </a>
   <span> | </span>
+   <a href="https://github.com/RamonBell/my_ha_setup/projects">
+    Current Automation projects
+  </a>
+  <span> | </span>
 <div align="center">
 </a>
   </h4>
