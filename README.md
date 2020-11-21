@@ -38,6 +38,8 @@ Here's the main components of my system:
 | 1 | Sonoff RF bridge | RF reciever (Tasmota Flashed) |
 | 1 | Raspberry Pi4 | Use for Tuya convert, was my old HA operator |
 
+# Devices I use
+
 Switches:
   I use mostly physical switches in my house. I use a combination of Ayococr and Gosund switches flashed with Tasmota via Tuya Covert.
   
