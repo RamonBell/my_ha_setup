@@ -79,9 +79,7 @@ Here's a run down of the devices that are used in my house.
 https://github.com/custom-components/alexa_media_player/wiki/Configuration%3A-Notification-Component
 I use the many Alexas around the house for announcements and alerts. The majority of my automations have, in one way or another have some Alexa speech component embeded in them. If that ever went away I would be screwed
 
-</div>
-<p><font size="3">
-Mobile devices are the main way that we access our automation sysem.  They establish presence in the house and are the basis for many automations.  Are we home? Turn on Automations that do various things: lights, thermostat, alarm system.  Leave? Well do the oposite of being home. Everyone has the mobile app on their phone and I have built specific Lovelace dashboards for our phone. We use multiprong way of doing presense detection:
+
  
 
  
