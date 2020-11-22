@@ -63,6 +63,13 @@ Here's a run down of the devices that are used in my house.
 ## Security Automations
    COMING SOON see https://github.com/RamonBell/my_ha_setup/projects/1
 ## Location Automations
+   Presence Detection:
+| Type | Links/Descritption | 
+|---|---|
+| NMAP | https://www.home-assistant.io/integrations/nmap_tracker| 
+| MOBILE APP | https://www.home-assistant.io/integrations/mobile_app|
+| MOTION DETECTORS | mix of RF and Zigbee 
+
 ## Football Automations
 ## System Automations
 ## Climate Automations
@@ -76,12 +83,7 @@ I use the many Alexas around the house for announcements and alerts. The majorit
 <p><font size="3">
 Mobile devices are the main way that we access our automation sysem.  They establish presence in the house and are the basis for many automations.  Are we home? Turn on Automations that do various things: lights, thermostat, alarm system.  Leave? Well do the oposite of being home. Everyone has the mobile app on their phone and I have built specific Lovelace dashboards for our phone. We use multiprong way of doing presense detection:
  
-Presence Detection:
-| Type | Links/Descritption | 
-|---|---|
-| NMAP | https://www.home-assistant.io/integrations/nmap_tracker| 
-| MOBILE APP | https://www.home-assistant.io/integrations/mobile_app|
-| MOTION DETECTORS | mix of RF and Zigbee 
+
  
 
 
