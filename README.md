@@ -33,6 +33,7 @@ I run my system on a Dell Optiplex 790 that is used from a doctor's office. I wi
 
 - [Automations](#automations)
 - [Sensors](#sensors)
+- [Node Red](#nodered)
 
 Here's the main components of my system:
 | Amount | Item | Description |
@@ -79,6 +80,9 @@ Here's a run down of the devices that are used in my house.
 ## System Automations
 ## Climate Automations
 ## Flood and Fire Automations
+
+# Nodered
+ I use both Node Red and automations in HA. I feel that they can compliment each other greatly. i use Node red for more complicated automations with complex conditions. 1) I like the visualization of the flow. 2) I suck at Yaml and unless I can use the UI the automation will fail. Here is a link for my Node Red flows: 
 
 # Sensors
  I use alot of sensors that make decisions for my home automations
