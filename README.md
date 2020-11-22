@@ -28,6 +28,10 @@ This is my first Repo. I am trying to learn how to do this github thing. You wil
 </div>
 <p><font size="3">
 I run my system on a Dell Optiplex 790 that is used from a doctor's office. I wiped it and put Promox on it as its operating system. I followed this repo and it took me twenty minutes to get it up and running: https://github.com/whiskerz007/proxmox_hassos_install. I moved away from cloud based devices and all my smart home deivces are run locally via MQTT.
+  
+# Table of Contents
+
+- [Automations](#automations)
 
 Here's the main components of my system:
 | Amount | Item | Description |
@@ -58,7 +62,7 @@ Here's a run down of the devices that are used in my house.
 * RF Devices
   I used alot of RF devices throughout my house. The are very low power and battery operated.
  
- # Automations
+# Automations
  The majority of my automations, in one way or another, have to due with mine and my wife's unique work schedule and how things are turned on and off based on if we are home or  not or if we have a guest, or if we are on vacation, or if we are at work. Since my wife works nights and sleeps during the day, and I work four days a week very earily in the am, I use input booleans, location tracking and other methods to determine things that happen in the house. 
 ## Security Automations
    COMING SOON see https://github.com/RamonBell/my_ha_setup/projects/1
