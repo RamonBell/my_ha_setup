@@ -44,6 +44,8 @@ Here's the main components of my system:
 | 1 | Sonoff RF bridge | RF reciever (Tasmota Flashed) |
 | 1 | Raspberry Pi4 | Use for Tuya convert, was my old HA operator |
 
+<p align="right"><a href="#top" title="Back to top">🔝</a></p>
+
 # Devices I use
 Here's a run down of the devices that are used in my house.
 * Switches:
@@ -63,7 +65,8 @@ Here's a run down of the devices that are used in my house.
   
 * RF Devices
   I used alot of RF devices throughout my house. The are very low power and battery operated.
- 
+<p align="right"><a href="#top" title="Back to top">🔝</a></p>
+
 # Automations
  The majority of my automations, in one way or another, have to due with mine and my wife's unique work schedule and how things are turned on and off based on if we are home or  not or if we have a guest, or if we are on vacation, or if we are at work. Since my wife works nights and sleeps during the day, and I work four days a week very earily in the am, I use input booleans, location tracking and other methods to determine things that happen in the house. 
 ## Security Automations
@@ -80,12 +83,17 @@ Here's a run down of the devices that are used in my house.
 ## System Automations
 ## Climate Automations
 ## Flood and Fire Automations
+<p align="right"><a href="#top" title="Back to top">🔝</a></p>
 
 # Nodered
  I use both Node Red and automations in HA. I feel that they can compliment each other greatly. I use Node red for more complicated automations with complex conditions. 1) I like the visualization of the flow. 2) I suck at Yaml and unless I can use the UI the automation, or steal someone else's code, it will fail. Here is a link for my Node Red flows: https://github.com/RamonBell/my_ha_setup/blob/main/nodered%20flows
 
+<p align="right"><a href="#top" title="Back to top">🔝</a></p>
+
 # Sensors
  I use alot of sensors that make decisions for my home automations
+ 
+ <p align="right"><a href="#top" title="Back to top">🔝</a></p>
 
 
  
