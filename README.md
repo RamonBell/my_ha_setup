@@ -82,7 +82,7 @@ Here's a run down of the devices that are used in my house.
 ## Flood and Fire Automations
 
 # Nodered
- I use both Node Red and automations in HA. I feel that they can compliment each other greatly. i use Node red for more complicated automations with complex conditions. 1) I like the visualization of the flow. 2) I suck at Yaml and unless I can use the UI the automation will fail. Here is a link for my Node Red flows: https://github.com/RamonBell/my_ha_setup/blob/main/nodered%20flows
+ I use both Node Red and automations in HA. I feel that they can compliment each other greatly. I use Node red for more complicated automations with complex conditions. 1) I like the visualization of the flow. 2) I suck at Yaml and unless I can use the UI the automation, or steal someone else's code, it will fail. Here is a link for my Node Red flows: https://github.com/RamonBell/my_ha_setup/blob/main/nodered%20flows
 
 # Sensors
  I use alot of sensors that make decisions for my home automations
