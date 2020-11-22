@@ -94,6 +94,12 @@ Here's a run down of the devices that are used in my house.
  I use alot of sensors that make decisions for my home automations
  
  <p align="right"><a href="#top" title="Back to top">🔝</a></p>
+ 
+Thank you for all visiting. Hit me up on my social outlets. If you want to contirbute feel free 🍻
+
+<p align="right"><a href="#top" title="Back to top">🔝</a></p>
+
+<p align="center"><strong>Don't forget to <a href="#" title="star">⭐️</a> or <a href="#" title="fork">🔱</a> this repo! 😃</strong></p>
 
 
  
