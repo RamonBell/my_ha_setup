@@ -32,6 +32,7 @@ I run my system on a Dell Optiplex 790 that is used from a doctor's office. I wi
 # Table of Contents
 
 - [Automations](#automations)
+- [Sensors](#sensors)
 
 Here's the main components of my system:
 | Amount | Item | Description |
