@@ -1,7 +1,7 @@
 # This is my Home Assistant Configuration <img src="https://user-images.githubusercontent.com/50278221/99838601-a2804900-2b26-11eb-8e4b-d2cb986ca9b1.png" width="100" height="100" align="right">
 
 </h1>
-<p><strong>Be sure to <a href="#" title="star">⭐️</a> or <a href="#" title="fork">🔱</a> my repo if you find it useful! 😃</strong></p>
+<p><strong>Be sure to <a href="#" title="star">⭐️</a> or <a href="#" title="fork">🔱</a> my repo if you find it useful! 🍻</strong></p>
 <div align="center">
 <h4> 
   <a href="https://www.smarthomemedic.com">
@@ -58,7 +58,7 @@ Here's a run down of the devices that are used in my house.
   I use a combination of Aquara Zigbee, Sonoff RF and Kerui 433 Mhz RF motion detectors.
   
 * Relays/switches
-  I use Sonoff Basics flashed with Tasmota for lamps and other things that I wanted to make smart but not use a plug for.
+  I use Sonoff Basics flashed with Tasmota for lamps and other things that I wanted to make smart but not use a plug for. I have one Sonoff Basic ZBR3. Use it as a cordinator for my Zigbee system. Basically since it is always powered it helps with the mesh aspect of the Zigbee network.
   
 * Plugs
   The plugs I use are a comibnation of Sonoff S26 and Sonoff S31 power monitoring plugs.
@@ -99,7 +99,7 @@ Thank you for all visiting. Hit me up on my social outlets. If you want to conti
 
 <p align="right"><a href="#top" title="Back to top">🔝</a></p>
 
-<p align="center"><strong>Don't forget to <a href="#" title="star">⭐️</a> or <a href="#" title="fork">🔱</a> this repo! 😃</strong></p>
+<p align="center"><strong>Don't forget to <a href="#" title="star">⭐️</a> or <a href="#" title="fork">🔱</a> this repo! 🍻</strong></p>
 
 
  
