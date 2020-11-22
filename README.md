@@ -75,7 +75,7 @@ Here's a run down of the devices that are used in my house.
 ## Climate Automations
 ## Flood and Fire Automations
 
-# [Sensors]
+# Sensors
  I use alot of sensors that make decisions for my home automations
 
 
