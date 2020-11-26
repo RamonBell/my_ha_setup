@@ -92,6 +92,14 @@ Here's a run down of the devices that are used in my house.
 
 # Sensors
  I use alot of sensors that make decisions for my home automations
+ ## Workday https://www.home-assistant.io/integrations/workday/
+ ## Time/Date https://www.home-assistant.io/integrations/time_date/
+ ## Min/Max https://www.home-assistant.io/integrations/min_max/
+ ## Current Version https://www.home-assistant.io/integrations/version/
+ ## Comand Line https://www.home-assistant.io/integrations/sensor.command_line/#monitoring-failed-login-attempts-on-home-assistant
+ 
+ ## System Monitor https://www.home-assistant.io/integrations/systemmonitor/
+ 
  
  <p align="right"><a href="#top" title="Back to top">🔝</a></p>
  
