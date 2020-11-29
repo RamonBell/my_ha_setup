@@ -64,7 +64,7 @@ Here's a run down of the devices that are used in my house.
   The plugs I use are a comibnation of Sonoff S26 and Sonoff S31 power monitoring plugs.
   
 * RF Devices
-  I used alot of RF devices throughout my house. The are very low power and battery operated. Here is yaml for the deivces that I use. https://github.com/RamonBell/RF_devices/blob/main/yaml
+  I use alot of RF devices throughout my house. The are very low power and battery operated. Here is yaml for the devices that I use. https://github.com/RamonBell/RF_devices/blob/main/yaml
 <p align="right"><a href="#top" title="Back to top">🔝</a></p>
 
 # Automations
