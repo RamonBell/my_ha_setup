@@ -27,7 +27,7 @@ This is my first Repo. I am trying to learn how to do this github thing. You wil
 
 </div>
 <p><font size="3">
-I run my system on a Dell Optiplex 790 that is used from a doctor's office. I wiped it and Run Unraid on it as its operating system. . I moved away from cloud based devices and all my smart home deivces are run locally via MQTT.
+I run my system on a Dell Optiplex 790 that is used from a doctor's office. I wiped it and Run Unraid on it as its operating system. I run HA core in a docker container within Unraid. I moved away from cloud based devices and most my smart home deivces are run locally via MQTT.
   
 # Table of Contents
 
