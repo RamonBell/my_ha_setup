@@ -27,7 +27,7 @@ This is my first Repo. I am trying to learn how to do this github thing. You wil
 
 </div>
 <p><font size="3">
-I run my system on a Dell Optiplex 790 that is used from a doctor's office. I wiped it and put Promox on it as its operating system. I followed this repo and it took me twenty minutes to get it up and running: https://github.com/whiskerz007/proxmox_hassos_install. I moved away from cloud based devices and all my smart home deivces are run locally via MQTT.
+I run my system on a Dell Optiplex 790 that is used from a doctor's office. I wiped it and Run Unraid on it as its operating system. . I moved away from cloud based devices and all my smart home deivces are run locally via MQTT.
   
 # Table of Contents
 
@@ -58,17 +58,17 @@ Here's a run down of the devices that are used in my house.
   I use a combination of Aquara Zigbee, Sonoff RF and Kerui 433 Mhz RF motion detectors.
   
 * Relays/switches
-  I use Sonoff Basics flashed with Tasmota for lamps and other things that I wanted to make smart but not use a plug for. I have one Sonoff Basic ZBR3. Use it as a cordinator for my Zigbee system. Basically since it is always powered it helps with the mesh aspect of the Zigbee network.
+  I use Sonoff Basics flashed with Tasmota for lamps and other things that I wanted to make smart but not use a plug for. I have one Sonoff Basic ZBR3. Use it as a coordinator for my Zigbee system. Basically since it is always powered it helps with the mesh aspect of the Zigbee network.
   
 * Plugs
-  The plugs I use are a comibnation of Sonoff S26 and Sonoff S31 power monitoring plugs.
+  The plugs I use are a comibnation of Sonoff S26 and Sonoff S31 power monitoring plugs I have them on just about everything even if they dont need to be switched on or off just for power monitoring.
   
 * RF Devices
   I use alot of RF devices throughout my house. The are very low power and battery operated. Here is yaml for the devices that I use. https://github.com/RamonBell/RF_devices/blob/main/yaml
 <p align="right"><a href="#top" title="Back to top">🔝</a></p>
 
 # Automations
- The majority of my automations, in one way or another, have to due with mine and my wife's unique work schedule and how things are turned on and off based on if we are home or  not or if we have a guest, or if we are on vacation, or if we are at work. Since my wife works nights and sleeps during the day, and I work four days a week very earily in the am, I use input booleans, location tracking and other methods to determine things that happen in the house. 
+ I use node red for the majority of my automations. In one way or another the flows, have to due with mine and my wife's unique work schedule and how things are turned on and off based on if we are home or not or if we have a guest, or if we are on vacation, or if we are at work. Since my wife works nights and sleeps during the day, and I work four days a week very earily in the am, I use input booleans, location tracking and other methods to determine things that happen in the house. 
 ## Security Automations
    COMING SOON see https://github.com/RamonBell/my_ha_setup/projects/1
 ## Location Automations
@@ -86,7 +86,7 @@ Here's a run down of the devices that are used in my house.
 <p align="right"><a href="#top" title="Back to top">🔝</a></p>
 
 # Nodered
- I use both Node Red and automations in HA. I feel that they can compliment each other greatly. I use Node red for more complicated automations with complex conditions. 1) I like the visualization of the flow. 2) I suck at Yaml and unless I can use the UI the automation, or steal someone else's code, it will fail. Here is a link for my Node Red flows: https://github.com/RamonBell/my_ha_setup/blob/main/nodered%20flows
+ I use mostly Node Red for things to happen in my house.  I use Node red for more complicated automations with complex conditions. 1) I like the visualization of the flow. 2) I suck at Yaml and unless I can use the UI the automation, or steal someone else's code, it will fail. Here is a link for my Node Red flows: https://github.com/RamonBell/my_ha_setup/blob/main/nodered%20flows
 
 <p align="right"><a href="#top" title="Back to top">🔝</a></p>
 
